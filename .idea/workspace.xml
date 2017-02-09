@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8cee830-eade-42e8-87bd-f38978f84332" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JDBC/com/icooer/JDBCDemo3.class" afterPath="$PROJECT_DIR$/out/production/JDBC/com/icooer/JDBCDemo3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JDBC/com/util/JDBCUtil.class" afterPath="$PROJECT_DIR$/out/production/JDBC/com/util/JDBCUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JDBC/config.properties" afterPath="$PROJECT_DIR$/out/production/JDBC/config.properties" />
-    </list>
+    <list default="true" id="f8cee830-eade-42e8-87bd-f38978f84332" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,7 +49,7 @@
       <file leaf-file-name="JDBCDemo4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/icooer/JDBCDemo4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="-882">
               <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding>
                 <marker date="1486651825000" expanded="true" signature="828:864" ph="insert into test... " />
@@ -672,7 +666,7 @@
       <workItem from="1486476326235" duration="4333000" />
       <workItem from="1486611450630" duration="7000" />
       <workItem from="1486611529598" duration="370000" />
-      <workItem from="1486647238285" duration="4789000" />
+      <workItem from="1486647238285" duration="4940000" />
     </task>
     <task id="LOCAL-00001" summary="PreparedStatement">
       <created>1486653347603</created>
@@ -685,10 +679,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23090000" />
+    <option name="totallyTimeSpent" value="23241000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="94" width="1194" height="755" extended-state="0" />
+    <frame x="40" y="94" width="1194" height="755" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -962,7 +956,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/icooer/JDBCDemo4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="-882">
           <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding>
             <marker date="1486651825000" expanded="true" signature="828:864" ph="insert into test... " />
